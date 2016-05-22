@@ -1,0 +1,68 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdfb651d5ce34b8aa64545ad5c44349b",
+    "_text_": "Write to us at info@savenextgen after transferring your contribution.",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "98%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.05%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "CopyLabel0a9af798fc6af4d",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "2932975751f744939f4d5ccd38ed40c0",
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer03a7930075d6149",
+    "pf": "frmDonateOptionsKA",
+    "tooltip": "",
+    "wType": "Label"
+}

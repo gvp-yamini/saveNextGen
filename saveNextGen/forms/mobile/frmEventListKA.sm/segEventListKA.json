@@ -1,0 +1,213 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblCategoryKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblDatefromKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "8:00 AM"
+            },
+            "lblDescriptionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Demo of HR SaaS"
+            },
+            "lblTimeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "8:00 AM"
+            }
+        },
+        {
+            "lblCategoryKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblDatefromKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "8:00 AM"
+            },
+            "lblDescriptionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Demo of HR SaaS"
+            },
+            "lblTimeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "8:00 AM"
+            }
+        },
+        {
+            "lblCategoryKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblDatefromKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "8:00 AM"
+            },
+            "lblDescriptionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Demo of HR SaaS"
+            },
+            "lblTimeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "8:00 AM"
+            }
+        },
+        {
+            "lblCategoryKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblDatefromKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "8:00 AM"
+            },
+            "lblDescriptionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Demo of HR SaaS"
+            },
+            "lblTimeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "8:00 AM"
+            }
+        },
+        {
+            "lblCategoryKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblDatefromKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "8:00 AM"
+            },
+            "lblDescriptionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Demo of HR SaaS"
+            },
+            "lblTimeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "8:00 AM"
+            }
+        },
+        {
+            "lblCategoryKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblDatefromKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "8:00 AM"
+            },
+            "lblDescriptionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Demo of HR SaaS"
+            },
+            "lblTimeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "8:00 AM"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "05",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segEventListKA",
+    "ide_onRowClick": "AS_Segment_6b3d0893cb3e4abc974366e523ce20ee",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "bbd56adf6cf146d9825fbf4a70633629",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageOffDot.png",
+    "pageondotimage": "pageOnDot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flsScrollContainerKA",
+    "pf": "frmEventListKA",
+    "retainselection": false,
+    "rowTemplateId": "7e9add8e51fa4e00b6a08b8110bcd616",
+    "rowcounter": 5,
+    "rowfocusskin": "s7b19a717f5647b991b02483c79c0ee9",
+    "rowskin": "s581461f6678448d99789c8b11412f85",
+    "rowtemplate": "flxEventsInfoKA",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s075c3f2291e4334a991224f3139ffc2",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "15592c00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxEventsInfoKA": "flxEventsInfoKA",
+        "lblCategoryKA": "lblCategoryKA",
+        "lblDatefromKA": "lblDatefromKA",
+        "lblDescriptionKA": "lblDescriptionKA",
+        "lblTimeKA": "lblTimeKA"
+    }
+}

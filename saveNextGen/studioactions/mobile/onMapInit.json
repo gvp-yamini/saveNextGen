@@ -1,0 +1,24 @@
+{
+    "AS_Form_616c2ef9c3c8496f99f41c24c9aecb63": {
+        "id": "AS_Form_616c2ef9c3c8496f99f41c24c9aecb63",
+        "type": "ACTION_SEQUENCE",
+        "name": "onMapInit",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMapKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "0b95fa1586c94623864bf938748e8468"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__a4e1531838f54dc4b15b926d3c30c420",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "locatorInit();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

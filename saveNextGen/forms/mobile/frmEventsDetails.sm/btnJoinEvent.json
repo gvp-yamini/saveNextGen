@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "51dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s81a209ac37e4d0fbb81514a57681ac4",
+    "_text_": "Join Event",
+    "_top_": {
+        "type": "string",
+        "value": "460dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s81a209ac37e4d0fbb81514a57681ac4",
+    "id": "btnJoinEvent",
+    "ide_onClick": "AS_Button_6b4959f0b04d42bc905af4c6604958a9",
+    "info": null,
+    "isvisible": true,
+    "kuid": "243d7249207747438ad69163214833cd",
+    "name": "kony.ui.Button",
+    "parent": "flxContainerKA",
+    "pf": "frmEventsDetails",
+    "wType": "Button",
+    "zindex": 1
+}

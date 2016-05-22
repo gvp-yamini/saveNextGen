@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "saea9a3ab7e54a51841413d7b22ba68d",
+    "_text_": "SaveNextGen is a Non-Profit-Non-Government organisation(NGO).We are working to acheive our common goal of preserving our Natures bounty by planting more trees and also saving the trees from axes which leads to a better future.Not only we plant but also take care of trees after that.",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "97%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "CopyLabel0cea72b269c0947",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "e6c5a16616fd47de88fda138acfd12cc",
+    "name": "kony.ui.Label",
+    "parent": "flxScrollContainerKA",
+    "pf": "frmHowWeWork",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

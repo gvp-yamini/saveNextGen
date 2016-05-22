@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_bf2508394572479bb8379718c3fd2f02": {
+        "id": "AS_FlexContainer_bf2508394572479bb8379718c3fd2f02",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMenuKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "22a26a5531bd42c6bc2dcf4c684e1659"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__5fcfb4e68bd447fa97ab9c14542df23b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeMenu();\nfrmDashboardKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

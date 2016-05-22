@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7f2d8b9cf4c48f695ada939876863d3",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flxTitleBarKA",
+        "lblEnterPersonalTrees",
+        "TextField077eb454135b640",
+        "CopyTextField060a78e62606140",
+        "CopyTextField0d6460e52b0794f",
+        "CopyTextField0142d8fdb60704f",
+        "Button0db69e7c65f7447"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxMainKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c6d87b29079d43c5a711a2825dcbbc9a",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmRegisterKA",
+    "pf": "frmRegisterKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

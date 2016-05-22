@@ -1,0 +1,27 @@
+{
+    "AS_Button_02673f7acf9e49d0aa0bc0e279338b4f": {
+        "id": "AS_Button_02673f7acf9e49d0aa0bc0e279338b4f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegisterKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "686569c7b9ff43c2ad69dc75897fa47e"
+        },
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_7e661f2b9acf4315b9f4dfaff37c583c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDonateOptionsKA",
+            "formKUID": "27761b6df3b647938d2dd58a36df13de",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

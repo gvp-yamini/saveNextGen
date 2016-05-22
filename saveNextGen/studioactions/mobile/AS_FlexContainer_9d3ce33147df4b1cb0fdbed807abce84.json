@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_9d3ce33147df4b1cb0fdbed807abce84": {
+        "id": "AS_FlexContainer_9d3ce33147df4b1cb0fdbed807abce84",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEventsDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f3334b3f077a4da185ddc27c52593116"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__c48816f34337477788789f58a08df464",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "function callback(){}\nkony.ui.Alert({\n        \"alertType\": constants.ALERT_TYPE_CONFIRMATION,\n        \"alertTitle\": \"Call\",\n        \"yesLabel\": \"Call\",\n        \"noLabel\": \"Cancel\",\n        \"alertIcon\": \"phone_icon_inactive.png\",\n        \"message\": frmEventsDetails.lblNumberKA.text,\n        \"alertHandler\": callback() \n    }, {\n        \"iconPosition\": constants.ALERT_ICON_POSITION_LEFT\n    })",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

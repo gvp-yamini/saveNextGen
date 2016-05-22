@@ -1,0 +1,24 @@
+{
+    "AS_Button_94e787f650b24ccaa97e5aa18dfd0833": {
+        "id": "AS_Button_94e787f650b24ccaa97e5aa18dfd0833",
+        "type": "ACTION_SEQUENCE",
+        "name": "onClickOnFeedback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEventsDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f3334b3f077a4da185ddc27c52593116"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__0e07a3397bc2490685b2aa9c1e76619d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Thank you for your valuable Feedback :)\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

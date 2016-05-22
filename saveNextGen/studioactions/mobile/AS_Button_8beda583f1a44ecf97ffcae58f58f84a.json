@@ -1,0 +1,41 @@
+{
+    "AS_Button_8beda583f1a44ecf97ffcae58f58f84a": {
+        "id": "AS_Button_8beda583f1a44ecf97ffcae58f58f84a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDonateKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "5dacebffdee04ba89d9cfb627d88b5ae"
+        },
+        "actions": [{
+            "id": "SHOW_ALERT__f2fc74577e9c472aa76aa3583daac40b",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertIcon": "opportunities.png",
+            "alertMessage": "Thanks for donating!!!\nYour lifespan has been increased by 3years!!!",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM___ea043ad42ed54b35a227b40319a5af0c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashboardKA",
+            "formKUID": "07711aea3f9d44549830898bc203b64a",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT__f2fc74577e9c472aa76aa3583daac40b",
+            "callbackType": "True",
+            "enableMappingEditor": true
+        }]
+    }
+}

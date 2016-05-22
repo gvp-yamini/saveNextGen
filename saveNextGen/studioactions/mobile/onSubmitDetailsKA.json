@@ -1,0 +1,24 @@
+{
+    "AS_Button_f60a8563eaee43ecb0bf9beb42e9174e": {
+        "id": "AS_Button_f60a8563eaee43ecb0bf9beb42e9174e",
+        "type": "ACTION_SEQUENCE",
+        "name": "onSubmitDetailsKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmContactUsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e5ecf7f53d5640889119a3a1d7d4a458"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__735776f9163c4344b0577da4d76eb305",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Thanks for joining us!!\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "AS_Image_d50fbcf858c44c9dbddfbf77fc3e0ebc": {
+        "id": "AS_Image_d50fbcf858c44c9dbddfbf77fc3e0ebc",
+        "type": "ACTION_SEQUENCE",
+        "name": "OnMapiconClickKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmEventsDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f3334b3f077a4da185ddc27c52593116"
+        },
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___e55e22e771d94aab83383a00872aed32",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmBrowserKA",
+            "formKUID": "5d2eb7f9ac5e4056a2a322704178986f",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

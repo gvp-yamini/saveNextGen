@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "63dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s81a209ac37e4d0fbb81514a57681ac4",
+    "_text_": "Donate",
+    "_top_": {
+        "type": "string",
+        "value": "46dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sf778501ae854860bb0f29c49a76f408",
+    "id": "Button0db69e7c65f7447",
+    "ide_onClick": "AS_Button_8beda583f1a44ecf97ffcae58f58f84a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "9a11fb88f9b84c429f5986994d3c5da9",
+    "name": "kony.ui.Button",
+    "parent": "flxMainKA",
+    "pf": "frmDonateKA",
+    "wType": "Button",
+    "zindex": 1
+}

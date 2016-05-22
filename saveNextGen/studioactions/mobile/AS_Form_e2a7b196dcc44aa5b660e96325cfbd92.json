@@ -1,0 +1,23 @@
+{
+    "AS_Form_e2a7b196dcc44aa5b660e96325cfbd92": {
+        "id": "AS_Form_e2a7b196dcc44aa5b660e96325cfbd92",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashboardKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "07711aea3f9d44549830898bc203b64a"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__a3af777588b046979807e9a46055b455",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDashboardKA.segImagesKA.pageSkin = \"sknBackgroundKA\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

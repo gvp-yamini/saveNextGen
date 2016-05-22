@@ -1,0 +1,23 @@
+{
+    "AS_Form_0f35b7e1f0974e4baa934603ba2cddfa": {
+        "id": "AS_Form_0f35b7e1f0974e4baa934603ba2cddfa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashboardKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "07711aea3f9d44549830898bc203b64a"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__3ac48eb9e81743de9f23391cae1347bd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setUpcomingEventsData();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

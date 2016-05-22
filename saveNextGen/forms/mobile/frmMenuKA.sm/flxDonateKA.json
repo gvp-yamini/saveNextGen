@@ -1,0 +1,58 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7f2d8b9cf4c48f695ada939876863d3",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopyImage063571cc3320747",
+        "CopyLabel0be7e6407b0a54b"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxDonateKA",
+    "ide_onClick": "AS_FlexContainer_5e2b99b104bd48fd80df56b9ea3435ec",
+    "info": null,
+    "isvisible": true,
+    "kuid": "eb5b73653b6d49e7857702a1c1295ab7",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexDashboardScrollContainerKA0144efd60617e49",
+    "pf": "frmMenuKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

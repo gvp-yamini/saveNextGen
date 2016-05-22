@@ -1,0 +1,24 @@
+{
+    "AS_Form_d5b2951006ad4580a0109b2940945099": {
+        "id": "AS_Form_d5b2951006ad4580a0109b2940945099",
+        "type": "ACTION_SEQUENCE",
+        "name": "onClickOnBrowserKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBrowserKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "5d2eb7f9ac5e4056a2a322704178986f"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__63f355588fec40278f14e3550153d8dc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " var URLAddress = \"https://www.google.co.in/maps/place/Hyderabad\";\n var requestURLConfig = {\n \"URL\":URLAddress,\n \"requestMethod\": constants.BROWSER_REQUEST_METHOD_GET\n }\nfrmBrowserKA.broweserWidgetKA.requestURLConfig=requestURLConfig;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

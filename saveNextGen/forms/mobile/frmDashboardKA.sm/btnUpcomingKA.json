@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd827cdbe79f45ee908095ed3ceef497",
+    "_text_": "Upcoming Events",
+    "_top_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sd827cdbe79f45ee908095ed3ceef497",
+    "id": "btnUpcomingKA",
+    "ide_onClick": "AS_Button_7b8fb67d86074a2ea5c76319511f1902",
+    "info": null,
+    "isvisible": true,
+    "kuid": "25b93c10401d4ad9939c1d4953e15573",
+    "name": "kony.ui.Button",
+    "parent": "CopyflxSecondaryKA0c388ebfd4d9b41",
+    "pf": "frmDashboardKA",
+    "wType": "Button"
+}

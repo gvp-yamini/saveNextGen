@@ -1,0 +1,36 @@
+{
+    "AS_FlexContainer_aca573fb4911406e849959e25524a2f6": {
+        "id": "AS_FlexContainer_aca573fb4911406e849959e25524a2f6",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEventsDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f3334b3f077a4da185ddc27c52593116"
+        },
+        "actions": [{
+            "id": "NAMED_ACTION____2f04076cc0074426b4b80e848eeeee9b",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_Image_d50fbcf858c44c9dbddfbf77fc3e0ebc",
+            "display": "OnMapiconClickKA",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject"
+            }, {
+                "datatype": "string",
+                "name": "x"
+            }, {
+                "datatype": "string",
+                "name": "y"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "isMasterInstanceAction": null
+        }]
+    }
+}

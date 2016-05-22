@@ -1,0 +1,24 @@
+{
+    "AS_Button_baf118006bb44cb48c0058594bc9cebc": {
+        "id": "AS_Button_baf118006bb44cb48c0058594bc9cebc",
+        "type": "ACTION_SEQUENCE",
+        "name": "onDetailsBack",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEventsDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f3334b3f077a4da185ddc27c52593116"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__9660d3df5cb842fb817c4ba9c8b8cf78",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(kony.application.getPreviousForm().id==\"frmDashboardKA\"){\n  frmDashboardKA.show();\n}else{\n frmEventListKA.show(); \n}\n\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

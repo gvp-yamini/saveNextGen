@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbf748695216426ebbc175fd629ec0e7",
+    "_text_": "Back",
+    "_width_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "sbf748695216426ebbc175fd629ec0e7",
+    "id": "btnBackKA",
+    "ide_onClick": "AS_Button_02673f7acf9e49d0aa0bc0e279338b4f",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bacedae3ebd64573acd6d7138e8a131e",
+    "name": "kony.ui.Button",
+    "parent": "flxTitleBarKA",
+    "pf": "frmRegisterKA",
+    "wType": "Button"
+}

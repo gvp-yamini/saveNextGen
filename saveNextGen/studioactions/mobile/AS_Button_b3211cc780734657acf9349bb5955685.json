@@ -1,0 +1,16 @@
+{
+    "AS_Button_b3211cc780734657acf9349bb5955685": {
+        "id": "AS_Button_b3211cc780734657acf9349bb5955685",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c5af907299d3499bb5adbf17f305c251",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showMenu();",
+            "callbackType": null
+        }]
+    }
+}

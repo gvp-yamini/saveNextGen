@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_skin_": "s6935b672afc41bcb6e2787a46d0831a",
+    "_text_": "Map View",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6935b672afc41bcb6e2787a46d0831a",
+    "id": "btnMonthKA",
+    "ide_onClick": "AS_Button_a0d55e6b574c4040afe29826326d886a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b42ca8080e084e77b8480d4634d981c0",
+    "name": "kony.ui.Button",
+    "parent": "flxTitleBarKA",
+    "pf": "frmEventListKA",
+    "wType": "Button",
+    "zindex": 1
+}

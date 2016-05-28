@@ -1,0 +1,16 @@
+{
+    "AS_Button_6b4959f0b04d42bc905af4c6604958a9": {
+        "id": "AS_Button_6b4959f0b04d42bc905af4c6604958a9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_5879c5002c1c4a47b7d9d1442c368b7b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Thank You for joining this Event:)\");",
+            "callbackType": null
+        }]
+    }
+}

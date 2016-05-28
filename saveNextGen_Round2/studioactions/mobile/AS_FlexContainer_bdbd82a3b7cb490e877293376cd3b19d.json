@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_bdbd82a3b7cb490e877293376cd3b19d": {
+        "id": "AS_FlexContainer_bdbd82a3b7cb490e877293376cd3b19d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMenuKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "22a26a5531bd42c6bc2dcf4c684e1659"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_25a7600c90af4cd1a18a812d529d3f22",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeMenu();\nfrmSaveFromAxe.show();",
+            "callbackType": null
+        }]
+    }
+}

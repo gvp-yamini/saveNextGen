@@ -1,0 +1,11 @@
+{
+    "AS_AppEvents_80ffe09073c7446f92321bf8995caf82": {
+        "id": "AS_AppEvents_80ffe09073c7446f92321bf8995caf82",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": []
+    }
+}

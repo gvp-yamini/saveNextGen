@@ -1,0 +1,17 @@
+{
+    "AS_AppEvents_45666d56900f477da4958b282225b1a2": {
+        "id": "AS_AppEvents_45666d56900f477da4958b282225b1a2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET__9c92232569c2437e9b6a9a93f41b3602",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "pushRegister();\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

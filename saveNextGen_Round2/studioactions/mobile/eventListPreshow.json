@@ -1,0 +1,24 @@
+{
+    "AS_Form_d410d99d42564016a5f8da9e2e96294a": {
+        "id": "AS_Form_d410d99d42564016a5f8da9e2e96294a",
+        "type": "ACTION_SEQUENCE",
+        "name": "eventListPreshow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEventListKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d1331f52cbc64f0eb13834f65bf114c3"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__54dd08ef7f5e4b24a8611ec7e17db8c0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmEventListKA.searchTextBoxKA.text=\"\";\n//settingEventsList();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

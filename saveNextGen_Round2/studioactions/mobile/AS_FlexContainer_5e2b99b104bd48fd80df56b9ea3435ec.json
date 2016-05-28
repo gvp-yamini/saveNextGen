@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_5e2b99b104bd48fd80df56b9ea3435ec": {
+        "id": "AS_FlexContainer_5e2b99b104bd48fd80df56b9ea3435ec",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMenuKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "22a26a5531bd42c6bc2dcf4c684e1659"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_85a266311a5b4287bd7cf496453dcbe8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeMenu();\nfrmDonateOptionsKA.show();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AS_Segment_67488ea7c60d4268be8d80b4c93fbe2c": {
+        "id": "AS_Segment_67488ea7c60d4268be8d80b4c93fbe2c",
+        "type": "ACTION_SEQUENCE",
+        "name": "OnSegRowClickDashboardKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmDashboardKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "07711aea3f9d44549830898bc203b64a"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__127d58cc847443cb9d6d2b2d8e206b8f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "navigatetoEventsDetailsDash();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "AS_TextField_f2725dc63914439197fec3239d9cfb8a": {
+        "id": "AS_TextField_f2725dc63914439197fec3239d9cfb8a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmEventListKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d1331f52cbc64f0eb13834f65bf114c3"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__755dcd86e3804aea8d7c6d8d40fa9d31",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var searchText = frmEventListKA.searchTextBoxKA.text;\nif(searchText===\"\" || searchText===\" \"){\nvar searchLbl = \"location\";\nmasterDataSearch(\"frmEventListKA\",\"segEventListKA\",searchText,searchLbl);\n}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_67bafd4c54974fea83b89340d70de207": {
+        "id": "AS_Button_67bafd4c54974fea83b89340d70de207",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSaveFromAxe",
+            "type": "forms",
+            "platform": "",
+            "KUID": "8005ed15f301423aa0c8a9d6d0798d5a"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__f4c2714a225c4c4c89e9b113b34a4b76",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Thanking for saving a life,We will reach you!!!!\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "147dp"
+    },
+    "_skin_": "s6935b672afc41bcb6e2787a46d0831a",
+    "_text_": "List View",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6935b672afc41bcb6e2787a46d0831a",
+    "id": "CopybtnMonthKA031aacada1f3841",
+    "ide_onClick": "AS_Button_569e4ae1e0354bd389322fee3363ebd5",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bbce028f6c364ddeaad3f945b42c1718",
+    "name": "kony.ui.Button",
+    "parent": "lblMapViewKA",
+    "pf": "frmMapKA",
+    "wType": "Button",
+    "zindex": 1
+}

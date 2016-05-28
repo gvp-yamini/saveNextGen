@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "sc7a04b4f3574cc4ac8c040a4f20d681",
+    "_text_": "Register an Event",
+    "_width_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1f2e41e702a40039dabf17d44c7c30e",
+    "id": "btnRegistrationKA",
+    "info": null,
+    "isvisible": false,
+    "kuid": "0cb56e128e28467f8e1ae613ad535def",
+    "name": "kony.ui.Button",
+    "parent": "flexHeader",
+    "pf": "frmEventsDetails",
+    "wType": "Button",
+    "zindex": 1
+}

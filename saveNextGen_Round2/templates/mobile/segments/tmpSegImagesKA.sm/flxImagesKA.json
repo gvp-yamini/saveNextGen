@@ -1,0 +1,44 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s3dece12d6ee4c078845b437cac7ad5b",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "ImgEventsKA"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxImagesKA",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "bd467fd2781446a0864e008b591c7237",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "tmpSegImagesKA",
+    "pf": "tmpSegImagesKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

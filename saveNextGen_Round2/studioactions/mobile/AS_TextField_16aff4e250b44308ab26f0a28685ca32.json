@@ -1,0 +1,26 @@
+{
+    "AS_TextField_16aff4e250b44308ab26f0a28685ca32": {
+        "id": "AS_TextField_16aff4e250b44308ab26f0a28685ca32",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmEventListKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d1331f52cbc64f0eb13834f65bf114c3"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__f238e01541f947479b5af404a2c689c5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var searchText = frmEventListKA.searchTextBoxKA.text;\nvar searchLbl = \"location\";\nmasterDataSearch(\"frmEventListKA\",\"segEventListKA\",searchText,searchLbl);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

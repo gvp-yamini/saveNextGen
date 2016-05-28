@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50.03%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s340c930b6ee4b13ba35ef4493291c75",
+    "_text_": "Nearby Events",
+    "_top_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s340c930b6ee4b13ba35ef4493291c75",
+    "id": "btnNearbyKA",
+    "ide_onClick": "AS_Button_f648c2f6cf7f4031bcb0edcfa183ce1a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "5a2bc22c8b2845ab82ca1369fd7e9560",
+    "name": "kony.ui.Button",
+    "parent": "CopyflxSecondaryKA0c388ebfd4d9b41",
+    "pf": "frmDashboardKA",
+    "wType": "Button"
+}

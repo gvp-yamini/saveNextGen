@@ -1,0 +1,24 @@
+{
+    "AS_Button_f9094e41e1764bba8e2714089ffcf3a8": {
+        "id": "AS_Button_f9094e41e1764bba8e2714089ffcf3a8",
+        "type": "ACTION_SEQUENCE",
+        "name": "onClickJoinEvent",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEventsDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f3334b3f077a4da185ddc27c52593116"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__078534cd5bac4cd0bcd322dd8c0e20c8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Thanks You for joining :)\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

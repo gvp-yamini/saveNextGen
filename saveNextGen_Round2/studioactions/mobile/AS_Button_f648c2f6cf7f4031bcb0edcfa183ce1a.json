@@ -1,0 +1,23 @@
+{
+    "AS_Button_f648c2f6cf7f4031bcb0edcfa183ce1a": {
+        "id": "AS_Button_f648c2f6cf7f4031bcb0edcfa183ce1a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashboardKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "07711aea3f9d44549830898bc203b64a"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__d2efd68b0ba4422bb93610b9945e0602",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDashboardKA.btnUpcomingKA.skin = sknbtn130serifinactive;\nfrmDashboardKA.btnNearbyKA.skin = sknbtn130serifKA;\nfrmDashboardKA.flxSelectedKA.isVisible = false;\nfrmDashboardKA.flxSelected2KA.isVisible = true;\nsetNearByEventsData();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

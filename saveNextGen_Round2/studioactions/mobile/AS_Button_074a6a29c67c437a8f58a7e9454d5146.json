@@ -1,0 +1,40 @@
+{
+    "AS_Button_074a6a29c67c437a8f58a7e9454d5146": {
+        "id": "AS_Button_074a6a29c67c437a8f58a7e9454d5146",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegisterKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "686569c7b9ff43c2ad69dc75897fa47e"
+        },
+        "actions": [{
+            "id": "SHOW_ALERT_ide_onClick_c9b281a1b43f4461b88ae8c025ed7018",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertIcon": "opportunities.png",
+            "alertMessage": "Thanks for registering!!!!\n",
+            "messageType": "constant",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onClick_6bed22ef06eb413a9c5abd5ee161e8e0",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashboardKA",
+            "formKUID": "07711aea3f9d44549830898bc203b64a",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT_ide_onClick_c9b281a1b43f4461b88ae8c025ed7018",
+            "callbackType": "True",
+            "enableMappingEditor": true
+        }]
+    }
+}
